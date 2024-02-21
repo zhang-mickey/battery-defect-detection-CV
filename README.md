@@ -1,8 +1,11 @@
 # CV_retinanet_csv
-the code was rub through jupyter,and the form of annotations is csv
 
-CBAM will be added in soon
-
+CBAM 
 
 
 
+## Stable Diffusion模型种类
+
+### CheckPoint 
+文件类型ckpt，safetensors
+### LoRA
