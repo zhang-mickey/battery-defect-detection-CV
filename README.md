@@ -31,6 +31,22 @@ Train Short, Test Long
 #### Few-Shot（FS）
 指模型在推理时给予少量样本，但不允许进行权重更新
 #### CoT
+
+# Battery defect detection 目标检测
+![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/74bf6264-ab1a-4a0d-9e5d-e648103446c9)
+
+mixed defect
+主要类型 
+![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/8633c509-ad66-47eb-9dbe-2613e8e96d00)
+
+## scratch defect
+
+## 褶皱
+![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/a1cd0f5a-d880-45c3-beb3-43c77956ffe2)
+
+## 卷绕
+## 气泡 
+## 
 ## CBAM 
 
 
