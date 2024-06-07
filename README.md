@@ -1,4 +1,5 @@
 # Length Extrapolation 长度外推
+![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/79ee682a-4721-448b-a1c9-b85ece60d110)
 
 Length - Extrapolation Methods for LLMs
 长文本大模型的关键技术主要是相对位置嵌入、旋转位置嵌入、位置插值、线性偏置
@@ -25,6 +26,11 @@ Train Short, Test Long
 
 #### Perplexity (PPL)
 
+
+
+#### Few-Shot（FS）
+指模型在推理时给予少量样本，但不允许进行权重更新
+#### CoT
 ## CBAM 
 
 
