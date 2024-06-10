@@ -1,3 +1,33 @@
+# Battery defect detection 目标检测
+生产过程表面缺陷检测
+![image](https://github.com/zhang-mickey/battery-defect-detection-CV/assets/145342600/71a3b8c7-b070-4d42-a1d6-865dcc2dbf07)
+
+实时要求： FPS 
+## 涂布
+检测正、负极材料漏涂、毛刺等缺陷
+
+极片偏移
+
+## 隔膜
+
+## 卷绕 
+## 叠片
+![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/74bf6264-ab1a-4a0d-9e5d-e648103446c9)
+
+mixed defect
+主要类型 
+![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/8633c509-ad66-47eb-9dbe-2613e8e96d00)
+
+
+## scratch defect
+
+## 褶皱
+![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/a1cd0f5a-d880-45c3-beb3-43c77956ffe2)
+
+## 卷绕
+## 气泡 
+
+
 # Length Extrapolation 长度外推
 ![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/79ee682a-4721-448b-a1c9-b85ece60d110)
 
@@ -41,20 +71,7 @@ Agent的引入：为了解决RAG的局限性，文档提出了引入Agent的概�
 指模型在推理时给予少量样本，但不允许进行权重更新
 #### CoT
 
-# Battery defect detection 目标检测
-![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/74bf6264-ab1a-4a0d-9e5d-e648103446c9)
 
-mixed defect
-主要类型 
-![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/8633c509-ad66-47eb-9dbe-2613e8e96d00)
-
-## scratch defect
-
-## 褶皱
-![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/a1cd0f5a-d880-45c3-beb3-43c77956ffe2)
-
-## 卷绕
-## 气泡 
 ## 
 ## CBAM 
 
