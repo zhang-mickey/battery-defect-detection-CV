@@ -1,8 +1,18 @@
 # Battery defect detection 目标检测
+
+
+
 生产过程表面缺陷检测
 ![image](https://github.com/zhang-mickey/battery-defect-detection-CV/assets/145342600/71a3b8c7-b070-4d42-a1d6-865dcc2dbf07)
 
 实时要求： FPS 
+
+## 场景
+工业缺陷样本较少 ：数据增强：镜像、旋转、平移 
+
+
+
+
 ## 涂布
 检测正、负极材料漏涂、毛刺等缺陷
 
