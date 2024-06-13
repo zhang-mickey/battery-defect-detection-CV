@@ -47,6 +47,15 @@ mixed defect
 原始 YOLOv5 的检测头是通过分类和回归分支融合共享的方式来实现的，而 YOLOX 的检测头则是将分类和回归分支进行解耦，同时新增了两个额外的 3x3 的卷积层，虽然提升了检测精度，但一定程度上增加了网络延时
 ## YoLov7
 
+
+#  text-to-speech （TTS）
+
+## 语音合成 Tacotron2
+
+### seq2seq （序列到序列）
+
+# Diffusion
+
 # Length Extrapolation 长度外推
 ![image](https://github.com/zhang-mickey/retinanet-CV/assets/145342600/79ee682a-4721-448b-a1c9-b85ece60d110)
 
